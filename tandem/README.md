@@ -1,3 +1,9 @@
+error list:
+environments: Deepin 20.6/GCC 9.5.0/
+1. 2090108912
+
+
+
 # TANDEM
 This folder contains the C++ TANDEM code, which can be used for evaluation of the tracking performance and mesh reconstruction quality. Most of this code is based on the excellent [DSO](https://github.com/JakobEngel/dso) by Jakob Engel and thus inherits it's GPL-3.0 license. The subfolder `libdr` contains code that is not derived from DSO and hence has different licenses.
 
