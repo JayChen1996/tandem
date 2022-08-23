@@ -1,5 +1,6 @@
 # TANDEM
-This folder contains the C++ TANDEM code, which can be used for evaluation of the tracking performance and mesh reconstruction quality. Most of this code is based on the excellent [DSO](https://github.com/JakobEngel/dso) by Jakob Engel and thus inherits it's GPL-3.0 license. The subfolder `libdr` contains code that is not derived from DSO and hence has different licenses.
+This folder contains the C++ TANDEM code, which can be used for evaluation of the tracking performance and mesh reconstruction quality. Most of this code is based on the excellent [DSO](https://github.com/JakobEngel/dso) by Jakob Engel and thus inherits it's GPL-3.0 license. The subfolder `libdr` contains code that is not derived from DSO and hence has different licenses.  
+这个目录包含了C++的TANDEM代码，用于评估跟踪和表面重建质量的。大部分代码基于[DSO](https://github.com/JakobEngel/dso)(GPL-3.0许可)，子目录libdr中是非DSO的代码，因此具有不同的许可
 
 ### 1. Installation
 We list the required dependencies for TANDEM in `1.1` and further dependencies in `1.2`. Also consider the full [README](https://github.com/JakobEngel/dso/blob/master/README.md) of DSO.
